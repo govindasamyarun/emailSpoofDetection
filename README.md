@@ -13,6 +13,8 @@ $ pip install emailSpoofDetection
 
 ## Python
 
+Refer example.py
+
 ```python
 from emailSpoofDetection import emailSpoofDetection
 
